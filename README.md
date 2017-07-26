@@ -21,7 +21,13 @@ Matlab Example
     You can just run the demo.m to get the evaluate result.
 
 ## If our code is useful for you, please cite our paper
-    
+
+	@inproceedings{bian2017gms,
+ 	  title={GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence},
+  	  author={JiaWang Bian and Wen-Yan Lin and Yasuyuki Matsushita and Sai-Kit Yeung and Tan Dat Nguyen and Ming-Ming Cheng},
+  	  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  	  year={2017}
+	}
     @inproceedings{2017S-measure,
       title={Structure-measure: A new way to evaluate foreground maps},
       author={DengPing, Fan and Yun, Liu and Tao, Li and MingMing, Cheng and Borji, Ali},
