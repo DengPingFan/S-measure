@@ -22,7 +22,7 @@ Matlab Example
 
 ## If our code is useful for you, please cite our paper
     
-    @inproceedings{2017iccv/S-measure,
+    @inproceedings{2017S-measure,
       title={Structure-measure: A new way to evaluate foreground maps},
       author={DengPing, Fan and Yun, Liu and Tao, Li and MingMing, Cheng and Borji, Ali},
       booktitle={IEEE International Conference on Computer Vision},
