@@ -28,10 +28,5 @@ Matlab Example
   	  booktitle={IEEE International Conference on Computer Vision},
   	  year={2017}
 	}
-    @inproceedings{2017S-measure,
-      title={Structure-measure: A new way to evaluate foreground maps},
-      author={DengPing, Fan and Yun, Liu and Tao, Li and MingMing, Cheng and Borji, Ali},
-      booktitle={IEEE International Conference on Computer Vision},
-      year={2017}
-    }
-
+	
+	
