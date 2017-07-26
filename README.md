@@ -4,4 +4,7 @@
 
 ## Publication
 [Deng-Ping Fan](http://dpfan.net), YunLiu, TaoLi, Ming-Ming Cheng(http://mmcheng.net), Ali Borji,
+
 **Structure-measure: A new way to evaluate foreground maps**  **IEEE ICCV, 2017** 
+
+[[Project Page](http://dpfan.net)]][[pdf](http://dpfan.net/)]
