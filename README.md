@@ -7,7 +7,7 @@
 
 **Structure-measure: A new way to evaluate foreground maps**  **IEEE ICCV, 2017** 
 
-[[Project Page](http://dpfan.net)][[pdf](http://dpfan.net/)]
+[[Project Page](http://dpfan.net/2017/07/26/smeasure/)][[pdf](http://dpfan.net/wp-content/uploads/2017/07/SmeasureICCV2017.pdf)][[bib](http://dpfan.net/wp-content/uploads/2017/07/fan2017Smeasure.txt)]
 
 
 ## Usage
