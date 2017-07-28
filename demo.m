@@ -44,7 +44,11 @@ for i = 1:length(gtFiles)
             prediction = rgb2gray(prediction);
         end
 
-        d_prediction = double(prediction);
+        % Normalize the prediction.
+        d_prediction = double(prediction); 
+        if (max(max(d_prediction))==255)
+           d_prediction = d_prediction./255;
+        end
         d_prediction = reshape(mapminmax(d_prediction(:)',0,1),size(d_prediction));
        
         % evaluate the predicted map against the GT
