@@ -24,7 +24,7 @@ Matlab Example
 
 	@inproceedings{2017Smeasure,
  	  title={Structure-measure: A new way to evaluate foreground maps},
-  	  author={DengPing, Fan and Yun, Liu and Tao, Li and MingMing, Cheng and Borji, Ali},
+  	  author={DengPing, Fan and MingMing, Cheng and Yun, Liu and Tao, Li and Borji, Ali},
   	  booktitle={IEEE International Conference on Computer Vision},
   	  year={2017}
 	}
