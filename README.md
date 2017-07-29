@@ -7,7 +7,7 @@
 
 **Structure-measure: A new way to evaluate foreground maps**  **IEEE ICCV, 2017** 
 
-[[Project Page](http://dpfan.net/2017/07/26/smeasure/)][[pdf](http://dpfan.net/wp-content/uploads/2017/07/SmeasureICCV2017.pdf)][[bib](http://dpfan.net/wp-content/uploads/2017/07/fan2017Smeasure.txt)]
+[[Project Page](http://dpfan.net/2017/07/26/smeasure/)][[pdf](http://dpfan.net/wp-content/uploads/2017/07/ICCV2017Smeasure.pdf)][[bib](http://dpfan.net/wp-content/uploads/2017/07/2017Smeasure.txt)]
 
 
 ## Usage
@@ -22,11 +22,11 @@ Matlab Example
 
 ## If our code is useful for you, please cite our paper
 
-	@inproceedings{2017Smeasure,
- 	  title={Structure-measure: A new way to evaluate foreground maps},
-  	  author={DengPing, Fan and Yun, Liu, and Tao, Li and MingMing, Cheng and Borji, Ali},
-  	  booktitle={IEEE International Conference on Computer Vision},
-  	  year={2017}
-	}
+	@inproceedings{FanStructMeasureICCV17,
+	    author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
+   	    title={{Structure-measure: A New Way to Evaluate Foreground Maps}},
+    	    booktitle={ICCV},
+    	    year={2017},
+}
 	
 	
