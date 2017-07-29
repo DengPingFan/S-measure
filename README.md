@@ -22,11 +22,11 @@ Matlab Example
 
 ## If our code is useful for you, please cite our paper
 
-	@inproceedings{FanStructMeasureICCV17,
-	    author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
-   	    title={{Structure-measure: A New Way to Evaluate Foreground Maps}},
-    	    booktitle={ICCV},
-    	    year={2017},
+@inproceedings{FanStructMeasureICCV17,
+    author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
+    title={{Structure-measure: A New Way to Evaluate Foreground Maps}},
+    booktitle={ICCV},
+    year={2017},
 }
 	
 	
