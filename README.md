@@ -23,10 +23,10 @@ Matlab Example
 ## If our code is useful for you, please cite our paper
 
 	@inproceedings{FanStructMeasureICCV17,
- 	  title={Structure-measure: A New Way to Evaluate Foreground Maps},
-  	  author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
-  	  booktitle={IEEE International Conference on Computer Vision},
-  	  year={2017}
+ 	  	title={Structure-measure: A New Way to Evaluate Foreground Maps},
+  	  	author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
+  	  	booktitle={IEEE International Conference on Computer Vision},
+  	  	year={2017}
 	}
 	
 	
