@@ -47,11 +47,11 @@ if(sum(GT(:))==0)
     X = round(cols/2);
     Y = round(rows/2);
 else     
-    area=sum(GT(:));
-    i=[1:cols];
-    j=[1:rows]';
-    X=round(sum(sum(GT,1).*i)/area);
-    Y=round(sum(sum(GT,2).*j)/area);
+    total=sum(GT(:));
+    i=1:cols;
+    j=(1:rows)';
+    X=round(sum(sum(GT,1).*i)/total);
+    Y=round(sum(sum(GT,2).*j)/total);
     
     %dGT = double(GT); 
     %x = ones(rows,1)*(1:cols);
