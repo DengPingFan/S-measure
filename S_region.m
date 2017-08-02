@@ -126,12 +126,11 @@ x = mean2(prediction);
 y = mean2(dGT);
 
 %Compute the variance of SM,GT
-sigma_x2 = var(prediction(:))%sigma_x2 = sum(sum((prediction - x).^2))./(N - 1 + eps);
-sigma_y2 = var(dGT(:));      %sigma_y2 = sum(sum((dGT - y).^2))./(N - 1 + eps);
+sigma_x2 = sum(sum((prediction - x).^2))./(N - 1 + eps);%sigma_x2 = var(prediction(:))
+sigma_y2 = sum(sum((dGT - y).^2))./(N - 1 + eps);       %sigma_y2 = var(dGT(:));      
 
 %Compute the covariance between SM and GT
-temp = cov(prediction(:),dGT(:));
-sigma_xy = temp(1,2);        %sigma_xy = sum(sum((prediction - x).*(dGT - y)))./(N - 1 + eps);
+sigma_xy = sum(sum((prediction - x).*(dGT - y)))./(N - 1 + eps);
 
 alpha = 4 * x * y * sigma_xy;
 beta = (x.^2 + y.^2).*(sigma_x2 + sigma_y2);
