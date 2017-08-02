@@ -46,13 +46,19 @@ function [X,Y] = centroid(GT)
 if(sum(GT(:))==0)
     X = round(cols/2);
     Y = round(rows/2);
-else
-    dGT = double(GT);
-    x = ones(rows,1)*(1:cols);
-    y = (1:rows)'*ones(1,cols);
-    area = sum(dGT(:));
-    X = round(sum(sum(dGT.*x))/area);
-    Y = round(sum(sum(dGT.*y))/area);
+else     
+    area=sum(GT(:));
+    i=[1:cols];
+    j=[1:rows]';
+    X=round(sum(sum(GT,1).*i)/area);
+    Y=round(sum(sum(GT,2).*j)/area);
+    
+    %dGT = double(GT); 
+    %x = ones(rows,1)*(1:cols);
+    %y = (1:rows)'*ones(1,cols);
+    %area = sum(dGT(:));
+    %X = round(sum(sum(dGT.*x))/area);
+    %Y = round(sum(sum(dGT.*y))/area);
 end
 
 end
