@@ -34,6 +34,9 @@ elseif(y==1)%if the GT is completely white
 else
     alpha = 0.5;
     Q = alpha*S_object(prediction,GT)+(1-alpha)*S_region(prediction,GT);
+    if (Q<0)
+      Q=0;
+    end
 end
 
 end
