@@ -19,8 +19,7 @@ Requirement:
 Matlab Example
     
     You can just run the demo.m or demo2.m to get the evaluation results.
-    Run demo1.m can get each map's score in the result folder.
-    Run demo2.m can get the average S-measure score in the matlab command window.
+    Run demo1.m can get each map's score in the result folder. Run demo2.m can get the average S-measure score in the matlab command window.
 
 ## If our code is useful for you, please cite our paper
 
