@@ -46,6 +46,6 @@ for i = 1:length(gtFiles)
     
 end
 
-fprintf('The average S-measure is:%.4f\n',mean2(S_score));
+fprintf('The average S-measure is:%.4f\n',mean2(S_score(:,1)));
 
 
