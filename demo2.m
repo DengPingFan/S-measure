@@ -11,7 +11,7 @@ fgPath = fullfile(RootDir,'demo2','FG');
 gtFiles = dir(fullfile(gtPath,'*.png'));
 
 % for each gtFiles
-S_score = zeros(1,length(gtFiles));
+S_score = zeros(length(gtFiles));
 for i = 1:length(gtFiles)
     fprintf('Processing %d/%d...\n',i,length(gtFiles));
     
