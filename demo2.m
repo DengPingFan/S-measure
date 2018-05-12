@@ -11,7 +11,7 @@ fgPath = fullfile(RootDir,'demo2','FG');
 gtFiles = dir(fullfile(gtPath,'*.png'));
 
 % for each gtFiles
-S_score = zeros(length(gtFiles));
+S_score = zeros(1,length(gtFiles));
 for i = 1:length(gtFiles)
     fprintf('Processing %d/%d...\n',i,length(gtFiles));
     
@@ -46,6 +46,6 @@ for i = 1:length(gtFiles)
     
 end
 
-fprintf('The average S-measure is:%.4f\n',mean2(S_score(:,1)));
+fprintf('The average S-measure is:%.4f\n',mean2(S_score));
 
 
