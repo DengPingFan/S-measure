@@ -1,4 +1,4 @@
-# S-measure: A new way to evaluate foreground maps
+# S-measure: A new way to evaluate foreground maps (ICCV2017-Spotlight)
 
 ![alt tag](http://dpfan.net/wp-content/uploads/2017/07/S-measure.png)
 
