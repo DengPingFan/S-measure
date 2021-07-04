@@ -26,22 +26,15 @@ https://github.com/zzhanghub/eval-co-sod
 
 ## If our code is useful for you, please cite our paper
 
-@article{Cheng2021sMeasure,
-  title={Structure-measure: A New Way to Evaluate Foreground Maps},
-  author={Ming-Ming Cheng and Deng-Ping Fan},
-  journal={International Journal of Computer Vision (IJCV)},
-  year={2021},
-  volume={},
-  number={},
-  pages={},
-  doi = {10.1007/s11263-021-01490-8},
-}
-
-@inproceedings{FanStructMeasureICCV17,
-  title={Structure-measure: A New Way to Evaluate Foreground Maps},
-  author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
-  booktitle={IEEE International Conference on Computer Vision},
-  year={2017}
-}
-	
+	@article{Cheng2021sMeasure,
+  	 title={Structure-measure: A New Way to Evaluate Foreground Maps},
+	 author={Ming-Ming Cheng and Deng-Ping Fan},
+	 journal={International Journal of Computer Vision (IJCV)},
+	 year={2021},
+	 volume={},
+	 number={},
+	 pages={},
+	 doi = {10.1007/s11263-021-01490-8},
+	}
+ 	
 	
