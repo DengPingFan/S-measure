@@ -1,11 +1,11 @@
-# S-measure: A new way to evaluate foreground maps (ICCV2017-Spotlight)
+# S-measure: A new way to evaluate foreground maps (IJCV2021)
 
 ![alt tag](http://dpfan.net/wp-content/uploads/2017/07/S-measure.png)
 
 ## Publication
 [Deng-Ping Fan](http://dpfan.net), [YunLiu](http://mmcheng.net/zh/yliu/), TaoLi, [Ming-Ming Cheng](http://mmcheng.net), [Ali Borji](http://crcv.ucf.edu/people/faculty/Borji/)
 
-**Structure-measure: A new way to evaluate foreground maps**  **IEEE ICCV, 2017** 
+**Structure-measure: A new way to evaluate foreground maps**  **IJCV2021** 
 
 [[Project Page](http://dpfan.net/smeasure/)][[pdf](http://dpfan.net/wp-content/uploads/2017/07/ICCV2017Smeasure.pdf)][[bib](http://dpfan.net/wp-content/uploads/2017/07/2017Smeasure.txt)]
 
@@ -26,11 +26,22 @@ https://github.com/zzhanghub/eval-co-sod
 
 ## If our code is useful for you, please cite our paper
 
-	@inproceedings{FanStructMeasureICCV17,
- 	  	title={Structure-measure: A New Way to Evaluate Foreground Maps},
-  	  	author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
-  	  	booktitle={IEEE International Conference on Computer Vision},
-  	  	year={2017}
-	}
+@article{Cheng2021sMeasure,
+  title={Structure-measure: A New Way to Evaluate Foreground Maps},
+  author={Ming-Ming Cheng and Deng-Ping Fan},
+  journal={International Journal of Computer Vision (IJCV)},
+  year={2021},
+  volume={},
+  number={},
+  pages={},
+  doi = {10.1007/s11263-021-01490-8},
+}
+
+@inproceedings{FanStructMeasureICCV17,
+  title={Structure-measure: A New Way to Evaluate Foreground Maps},
+  author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
+  booktitle={IEEE International Conference on Computer Vision},
+  year={2017}
+}
 	
 	
