@@ -30,9 +30,9 @@ https://github.com/zzhanghub/eval-co-sod
 	 author={Ming-Ming Cheng and Deng-Ping Fan},
 	 journal={International Journal of Computer Vision (IJCV)},
 	 year={2021},
-	 volume={},
-	 number={},
-	 pages={},
+	 volume={129},
+	 number={9},
+	 pages={2622--2638},
 	 doi = {10.1007/s11263-021-01490-8},
 	}
  	
