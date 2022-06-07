@@ -1,13 +1,13 @@
 # S-measure: A new way to evaluate foreground maps (IJCV2021)
 
-![alt tag](http://dpfan.net/wp-content/uploads/2017/07/S-measure.png)
+![alt tag](S-measure.jpg)
 
 ## Publication
 [Deng-Ping Fan](http://dpfan.net), [YunLiu](http://mmcheng.net/zh/yliu/), TaoLi, [Ming-Ming Cheng](http://mmcheng.net), [Ali Borji](http://crcv.ucf.edu/people/faculty/Borji/)
 
 **Structure-measure: A new way to evaluate foreground maps**  **IJCV2021** 
 
-[[pdf]([http://dpfan.net/wp-content/uploads/2017/07/ICCV2017Smeasure.pdf](https://link.springer.com/article/10.1007/s11263-021-01490-8))]
+[pdf](https://link.springer.com/article/10.1007/s11263-021-01490-8)
 
 
 ## Usage
