@@ -4,7 +4,7 @@
 
 ## Publication
 
-**Structure-measure: A new way to evaluate foreground maps**  **IJCV2021** 
+**Structure-measure: A new way to evaluate foreground maps.**  **IJCV2021** 
 
 [[pdf](https://link.springer.com/article/10.1007/s11263-021-01490-8)][[中译版](https://dengpingfan.github.io/papers/[2021][IJCV]Smeasure_Chinese.pdf)]
 
