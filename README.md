@@ -21,7 +21,9 @@ Matlab Example
     Run demo1.m can get each map's score in the result folder. Run demo2.m can get the average S-measure score in the matlab command window.
     
 ## Python version: 
-https://github.com/zzhanghub/eval-co-sod
+zzhanghub/[Evaluate-SOD](https://github.com/Hanqer/Evaluate-SOD)
+
+Hanqer/[eval-co-sod](https://github.com/zzhanghub/eval-co-sod)
 
 ## If our code is useful for you, please cite our paper
 
